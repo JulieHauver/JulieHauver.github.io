@@ -9,20 +9,16 @@
 }
 
 span.reference{
-	font-family: Frenchpress;
 	position:fixed;
 	left:10px;
 	bottom:10px;
-	font-size:22px;
 }
+
 span.reference a{
-	color: #888;
+	color: #999;
 	margin-right:20px;
 	text-transform:uppercase;
 	text-decoration: none;
-}
-span.reference a:hover{
-	border-bottom:1px solid #ddd;
 }
 
 *{
@@ -63,14 +59,18 @@ h2{
 	font-weight:normal;
 	font-size:22px;
 	color:#FFED2F;
-	margin-bottom:50px;
+	margin-bottom:10px;
 }
 a{
 	outline:none;
+	text-decoration: none;
+	color: white;
+	m
 }
 ul.fp_galleryList{
 	list-style:none;
 	position:relative;
+	margin-top: 20px;
 }
 ul.fp_galleryList li{
 	display:inline;
